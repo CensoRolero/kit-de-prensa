@@ -6,6 +6,8 @@ Se incluye:
 * comunicado_censo_rolero.docx: Archivo con la información básica de la iniciativa.
 * logo_censorolero_confondo.png: logo con fondo de color hueso.
 * logo_censorolero_sinfondo.png: logo con fondo transparente.
-* post_1_1.png: Imagen con la información básica, en formato cuadrado (1:1) para un primero post en redes sociales.
+* gráfica_1080x1080.png: Imagen con la información básica, en formato cuadrado (1080x1080 px).
+* gráfica_1080x1350.png: Imagen con la información básica, en formato rectangular A (1080x1350 px).
+* gráfica_1080x1920.png: Imagen con la información básica, en formato rectangular B (1080x1920 px).
 
 Al ingresar a cada archivo, usa el botón con la fecha hacia abajo para descargar ("Download raw file").
